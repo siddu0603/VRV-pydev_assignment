@@ -1,0 +1,13 @@
+IP Address,Request Count
+203.0.113.5,32
+198.51.100.23,32
+192.168.1.1,28
+10.0.0.2,24
+192.168.1.100,20
+
+Endpoint,Access Count
+/login,52
+
+IP Address,Failed Login Count
+203.0.113.5,32
+192.168.1.100,20
